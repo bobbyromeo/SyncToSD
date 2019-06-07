@@ -1,4 +1,4 @@
-# PrusaFlashAir
+# SyncToSD
 Modification of jayanty's bash script to sync a local folder with a Toshiba W-04 WiFi card. Added ability to sync and overwrite existing files on the FlashAir card if modification date is current day.
 
 Based entirely on this codebase (https://github.com/jayanty/PrusaFlashAir).
